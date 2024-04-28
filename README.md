@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any domain specific projects.
 - 📫 How to reach me : nivatiashresthi@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: I'm not actually interested in studies.
+- ⚡ Fun fact: I'm not actually interested in studying.
 
 <!---
 shresthi30/shresthi30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
